@@ -2,7 +2,7 @@
 
 Oceanic Next but more wonderful
 
-![demo](ss/Screen Shot 2018-03-09 at 09.52.27.png)
+![demo](https://raw.githubusercontent.com/aligos/wonder-ocean/master/ss/Screen%20Shot%202018-03-09%20at%2009.52.27.png)
 
 ## How to install
 
